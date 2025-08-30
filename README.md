@@ -18,7 +18,7 @@ A web application to extract and view individual frames from GIF files.
 
 ## Live Demo
 
-Check out the live demo: [GIF Extractor](https://muffnlabs.github.io/gif-extractor/)
+Check out the live demo: [GIF Extractor](https://nomuffn.github.io/gif-extractor/)
 
 ## Technologies Used
 
@@ -35,13 +35,13 @@ Check out the live demo: [GIF Extractor](https://muffnlabs.github.io/gif-extract
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/muffnlabs/gif-extractor.git
+   git clone https://github.com/nomuffn/gif-extractor
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd gif-extractor/gif-extractor-frontend
+   cd gif-extractor/gif-extractor
    ```
 
 3. Install dependencies:

@@ -4,12 +4,18 @@
   "version": "1.0.0",
   "type": "module",
   "description": "A web application to extract and view individual frames from GIF files",
-  "author": "Muffnlabs",
+  "author": "muffnlabs",
   "license": "MIT",
-  "keywords": ["gif", "extractor", "frames", "animation", "image-processing"],
+  "keywords": [
+    "gif",
+    "extractor",
+    "frames",
+    "animation",
+    "image-processing"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/muffnlabs/gif-extractor"
+    "url": "https://github.com/nomuffn/gif-extractor"
   },
   "scripts": {
     "dev": "vite",

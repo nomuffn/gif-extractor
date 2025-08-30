@@ -1,4 +1,4 @@
-## fully vibe coded slop
+## fully vibe coded slop (qwen)
 
 # GIF Extractor
 

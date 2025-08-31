@@ -111,6 +111,22 @@
   animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 }
 
+/* Cupcake animations for muffnlabs link */
+@keyframes cupcake-fly {
+  0% {
+    opacity: 1;
+    transform: scale(1.5) translate(0, 0) rotate(0deg);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.3) translate(var(--tx), var(--ty)) rotate(var(--r));
+  }
+}
+
+.cupcake-animation {
+  animation: cupcake-fly 2s ease-out forwards;
+}
+
 /* Mobile responsive utilities */
 @media (max-width: 767px) {
   .mobile-flex-col {
